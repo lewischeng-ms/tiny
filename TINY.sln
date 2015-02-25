@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Compiler", "Compiler\Compiler.vcproj", "{8BB88A6A-7DDE-4688-A65D-6AAD535ADF42}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TM", "TM\TM.vcproj", "{C2AC6481-A966-4895-9558-AF8DB852FEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB88A6A-7DDE-4688-A65D-6AAD535ADF42}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BB88A6A-7DDE-4688-A65D-6AAD535ADF42}.Debug|Win32.Build.0 = Debug|Win32
+		{8BB88A6A-7DDE-4688-A65D-6AAD535ADF42}.Release|Win32.ActiveCfg = Release|Win32
+		{8BB88A6A-7DDE-4688-A65D-6AAD535ADF42}.Release|Win32.Build.0 = Release|Win32
+		{C2AC6481-A966-4895-9558-AF8DB852FEBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2AC6481-A966-4895-9558-AF8DB852FEBE}.Debug|Win32.Build.0 = Debug|Win32
+		{C2AC6481-A966-4895-9558-AF8DB852FEBE}.Release|Win32.ActiveCfg = Release|Win32
+		{C2AC6481-A966-4895-9558-AF8DB852FEBE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
